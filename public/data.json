@@ -1,0 +1,31 @@
+[
+  {
+    "id": "0",
+    "slides": [
+      {
+        "name": "Black",
+        "color": "black",
+        "sku": "BMVA-BLK-228"
+      },
+
+      {
+        "name": "Nightsky",
+        "color": "nightsky",
+        "sku": "BMVA-NSK-218"
+      },
+      {
+        "name": "Ranger Green",
+        "color": "ranger_green",
+        "sku": "BMVA-RGN-213"
+      },
+      {
+        "name": "Bronze",
+        "color": "bronze",
+        "sku": "BMVA-BRZ-213"
+      }
+    ],
+    "productName": "Venture Sling 6L",
+    "description": "6L / An organized sling that's ready for adventure",
+    "price": 129
+  }
+]
